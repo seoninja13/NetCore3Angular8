@@ -1,4 +1,4 @@
-namespace DatingApp.API.Controllers.Models.Data
+namespace DatingApp.API.Data
 {
     public class ValueTest
     {
